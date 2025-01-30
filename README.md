@@ -27,9 +27,12 @@ This project dives into hotel booking data, leveraging Excel for comprehensive d
 - **Microsoft Excel** – Data Cleaning, Analysis, and Dashboarding
 - **Power Query** – Data transformation
 - **Pivot Tables & Charts** – Data summarization and visualization
+- 
 
-## 📬 Connect with Me
+Feel free to reach out to me for any questions or collaboration opportunities.
 
-- **LinkedIn**: linkedin.com/in/arun 🌐
-- **GitHub**: github.com/ArunCooksData 👨‍💻
-- **Email**: arundeepp9393@gmail.com 📧
+## 🔗 Connect with me :
+- **Linkedin**: [linkedin.com/in/arun](https://www.linkedin.com/in/arun-deep-04964b258/) 🌐
+- **GitHub**: [github.com/ArunCooksData](https://github.com/ArunCooksData) 👨‍💻
+- **Email**: [arundeepp9393@gmail.com](mailto:arundeepp9393@gmail.com) 📧
+
