@@ -17,10 +17,10 @@ This project dives into hotel booking data, leveraging Excel for comprehensive d
 
 
 ## 📌 Insights Uncovered
--**🔹 Booking Trends**– Seasonal patterns and customer preferences.
--**🔹 Cancellation Analysis** – Identifying the most canceled room types and customer categories.
--**🔹 Guest Type Behavior** – Trends among solo travelers, couples, and families.
--**🔹 Room Preferences** – Popular room types and their impact on cancellations.
+- **🔹 Booking Trends**– Seasonal patterns and customer preferences.
+- **🔹 Cancellation Analysis** – Identifying the most canceled room types and customer categories.
+- **🔹 Guest Type Behavior** – Trends among solo travelers, couples, and families.
+- **🔹 Room Preferences** – Popular room types and their impact on cancellations.
 
 ## 🛠 Tech Stack
 
