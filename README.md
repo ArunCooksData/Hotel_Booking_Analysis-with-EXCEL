@@ -1,4 +1,4 @@
-![HOTEL PROJECT DASHBOARD IMAGE](./HOTEL_PROJECT_DASHBOARD_IMAGE.png)
+![dashboardimage logo](./dashboardimage.jpg)
 
 🏨 Hotel Booking Analysis - Excel Dashboard
 
