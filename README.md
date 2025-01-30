@@ -1,4 +1,4 @@
-![HOTEL PROJECT DASHBOARD IMAGE](./https://github.com/ArunCooksData/Hotel_Booking_Analysis-with-EXCEL/tree/main)
+![HOTEL PROJECT DASHBOARD IMAGE](./HOTEL_PROJECT_DASHBOARD_IMAGE.png)
 
 🏨 Hotel Booking Analysis - Excel Dashboard
 
